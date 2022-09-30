@@ -1,5 +1,5 @@
 ﻿import tkinter.ttk as ttk
-import Buttons as btn
+import buttons as btn
 from functools import partial
 
 def style_equation_label(lbl):

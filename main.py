@@ -1,5 +1,5 @@
 ﻿import tkinter as tk
-import Design as dsn
+import design as dsn
 
 win = tk.Tk()
 win.title("Paul's Calculator")
